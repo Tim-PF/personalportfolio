@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Optional, aber empfohlen für bessere Layout-Kontrolle */
+}
+
+
+.custom-main-bg {
+  background-color: #F8E0C9; /* Definiere die Hintergrundfarbe */
+}
+
+.custom-footer-bg {
+  background-color: #2B1A12
+}
+
