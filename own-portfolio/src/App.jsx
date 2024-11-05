@@ -11,6 +11,7 @@ function App() {
    <div className="d-flex flex-column min-vh-100 w-100">
     <Navbar></Navbar>
     <main className="container-fluid custom-main-bg flex-grow-1">
+        
       </main>
 
       {/* Footer */}
